@@ -1,0 +1,24 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide colors.
+// -----------------------------------------------------------------------------
+
+//using maps
+//example
+//
+//$colors: (
+//  white: #fff,
+//  red: #f00
+//);
+
+//* {color: map-get($colors, red);}
+
+$weather-item-shadow: 0 -2px 10px 0 rgba(0, 0, 0, 0.29);
+$weather-item-bg: linear-gradient(to top, #113a42, #116b7e);
+$weather-widget-bg: radial-gradient(circle at 50% 51%, #0c1820, rgba(22, 29, 29, 0));
+$weather-widget-bg-2: linear-gradient(299deg, rgba(1, 52, 78, 0.98), #002b26);
+$weather-widget-bg-3: linear-gradient(243deg, rgba(22, 29, 29, 0.98), #161d1d 26%, rgba(22, 29, 29, 0));
+
+$grey: #b9c1c2;
+$white: #ffffff;
+$white-opacity: rgba($white, 0.8);
+

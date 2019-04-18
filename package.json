@@ -1,0 +1,47 @@
+{
+  "name": "weather-widget",
+  "version": "1.0.0",
+  "description": "Weather widget page",
+  "main": "",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "gulp-html-import": "0.0.2",
+    "gulp-sass": "~3.0.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^0.4.2",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-file-include": "^0.14.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-remove-html": "^1.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "imagemin-pngquant": "^5.0.0",
+    "gulp-template-compile": "^1.4.0",
+    "node-bourbon": "^4.2.8",
+    "sass-loader": "^4.0.0",
+    "susy": "^2.2.12",
+    "vinyl-ftp": "^0.5.0",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
